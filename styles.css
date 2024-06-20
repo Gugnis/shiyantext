@@ -1,0 +1,19 @@
+p {text-indent: 2em;}
+h2 {text-align: center;}
+body{font-family:"微软雅黑","宋体","楷体"}
+header {
+    background-color: #50abbb;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+header h1 {
+    color: #ffffff;
+    font-size: 40px;
+}
+main {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
